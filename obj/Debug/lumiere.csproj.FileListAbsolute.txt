@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\bin\Debug\lumiere.exe.config
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\bin\Debug\lumiere.exe
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\bin\Debug\lumiere.pdb
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\bin\Debug\EngineIO.dll
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.csprojAssemblyReference.cache
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\MainWindow.g.cs
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\App.g.cs
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere_MarkupCompile.cache
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere_MarkupCompile.lref
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\MainWindow.baml
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.g.resources
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.Properties.Resources.resources
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.csproj.GenerateResource.cache
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.csproj.CopyComplete
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.exe
+C:\Users\david\source\repos\BUTINFO\lumiere\lumiere\obj\Debug\lumiere.pdb
